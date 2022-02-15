@@ -8,16 +8,16 @@ function setup() {
 
 function draw() {
   //Draw the square
-  fill(mouseX/400 * 255,(1 - mouseY / 400) * 255,100)
+  fill(mouseX/400 * 255,(1 - mouseY / 400) * 255,100);
   rect(200,200,100,100);
 
   //Draw the moving rectangle
-  fill(200,244,40)
-  rect(100,frameCount,50,50)
+  fill(200,244,40);
+  rect(100,frameCount,50,50);
 }
 
 function mouseClicked() {
   //Draw the ellipse at the mouse location
-  fill(50,200,200)
-  ellipse(mouseX,mouseY,30,30)
+  fill(50,200,200);
+  ellipse(mouseX,mouseY,30,30);
 }
