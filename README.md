@@ -1,4 +1,4 @@
-# GDD-140-Template
+# GDD-140 Exercise 2.0
 [![pages-build-deployment](https://github.com/LittleTealeaf/GDD-140-Exercise-2.0/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LittleTealeaf/GDD-140-Exercise-2.0/actions/workflows/pages/pages-build-deployment)
 
 [**View Deployment**](https://littletealeaf.github.io/GDD-140-Exercise-2.0/)
